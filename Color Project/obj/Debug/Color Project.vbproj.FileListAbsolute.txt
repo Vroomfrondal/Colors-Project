@@ -1,0 +1,46 @@
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.pdb
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.xml
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.frmMain.resources
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.Resources.resources
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.exe
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.xml
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\bin\Debug\Color Project.exe.config
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\bin\Debug\Color Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\bin\Debug\Color Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\bin\Debug\Color Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.vbprojAssemblyReference.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color_Project.frmMain.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color_Project.Resources.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.vbproj.CoreCompileInputs.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - modified\Color Project\obj\Debug\Color Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.exe.config
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.pdb
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbprojAssemblyReference.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color_Project.frmMain.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color_Project.Resources.resources
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbproj.CoreCompileInputs.cache
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.exe
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.xml
+E:\MISY3350\MISY 3350\Imported\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.pdb
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.exe.config
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.exe
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.pdb
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\bin\Debug\Color Project.xml
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbprojAssemblyReference.cache
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color_Project.frmMain.resources
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color_Project.Resources.resources
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.cache
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.vbproj.CoreCompileInputs.cache
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.exe
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.xml
+C:\Users\Topher\Desktop\Deleon Christopher J VB CH 7\Color Solution - Custom.Modified\Color Project\obj\Debug\Color Project.pdb
